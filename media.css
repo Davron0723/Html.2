@@ -1,0 +1,198 @@
+@media only screen and (max-width: 1200px) {
+    .logo {
+        background-color: orange;
+        height: 180px;
+        width: 180px;
+        border-radius: 95px;
+        margin-right: 50px;
+    }
+    .menu {
+        background-color: orange;
+        height: 180px;
+        width: 900px;
+        border-radius: 40px;
+    }
+    .block {
+        background-color: aqua;
+        height: 400px;
+        width: 540px;
+        margin: 15px;
+        font-size: 0;
+        border-radius: 30px;
+    }
+    .img {
+        background-color: aquamarine;
+        width: 356px;
+        height: 250px;
+        margin: 10px;
+    }
+}
+@media only screen and (max-width: 1058px) {
+    .logo {
+        background-color: orange;
+        height: 180px;
+        width: 180px;
+        border-radius: 95px;
+        margin-right: 50px;
+    }
+    .menu {
+        background-color: orange;
+        height: 180px;
+        width: 760px;
+        border-radius: 40px;
+    }
+    .block {
+        background-color: aqua;
+        height: 400px;
+        width: 470px;
+        margin: 15px;
+        font-size: 0;
+        border-radius: 30px;
+    }
+    .img {
+        background-color: aquamarine;
+        width: 310px;
+        height: 250px;
+        margin: 10px;
+    }
+}
+@media only screen and (max-width: 870px) {
+    .logo {
+        background-color: orange;
+        height: 100px;
+        width: 100px;
+        border-radius: 95px;
+        margin-right: 50px;
+    }
+    .menu {
+        background-color: orange;
+        height: 100px;
+        width: 680px;
+        border-radius: 40px;
+    }
+    .block {
+        background-color: aqua;
+        height: 350px;
+        width: 390px;
+        margin: 15px;
+        font-size: 0;
+        border-radius: 30px;
+    }
+    .img {
+        background-color: aquamarine;
+        width: 280px;
+        height: 220px;
+        margin: 10px;
+    }
+}
+@media only screen and (max-width: 690px) {
+    .logo {
+        background-color: orange;
+        height: 80px;
+        width: 80px;
+        border-radius: 95px;
+        margin-right: 50px;
+    }
+    .menu {
+        background-color: orange;
+        height: 80px;
+        width: 540px;
+        border-radius: 40px;
+    }
+    .block {
+        background-color: aqua;
+        height: 300px;
+        width: 320px;
+        margin: 15px;
+        font-size: 0;
+        border-radius: 30px;
+    }
+    .img {
+        background-color: aquamarine;
+        width: 240px;
+        height: 210px;
+        margin: 10px;
+    }
+}
+@media only screen and (max-width: 550px) {
+    .con1 {
+        display: inline-block;
+    }
+    .con2 {
+        display: inline-block;
+    }
+    .con3 {
+        display: inline-block;
+        margin: 5px;
+    }
+    .logo {
+        background-color: orange;
+        height: 100px;
+        width: 100px;
+        border-radius: 95px;
+        margin-right: 50px;
+    }
+    .menu {
+        margin-top: 20px;
+        background-color: orange;
+        height: 80px;
+        width: 350px;
+        border-radius: 40px;
+    }
+    .block {
+        margin: auto;
+        background-color: aqua;
+        height: 250px;
+        width: 450px;
+        margin: 15px;
+        font-size: 0;
+        border-radius: 30px;
+    }
+    .img {
+        background-color: aquamarine;
+        width: 450px;
+        height: 200px;
+        margin: 10px;
+    }
+}
+@media only screen and (max-width: 447px) {
+    .con1 {
+        display: inline-block;
+    }
+    .con2 {
+        display: inline-block;
+    }
+    .con3 {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    .logo {
+        background-color: orange;
+        height: 100px;
+        width: 100px;
+        border-radius: 95px;
+        margin-right: 50px;
+    }
+    .menu {
+        margin-top: 10px;
+        background-color: orange;
+        height: 80px;
+        width: 200px;
+        border-radius: 40px;
+    }
+    .block {
+        background-color: aqua;
+        height: 250px;
+        width: 350px;
+        margin: 15px;
+        font-size: 0;
+        border-radius: 30px;
+    }
+    .img {
+        background-color: aquamarine;
+        width: 380px;
+        height: 200px;
+        margin: 10px;
+    }
+}
